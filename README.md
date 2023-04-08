@@ -55,5 +55,3 @@ The script uses a `while` loop to continuously prompt the user for input and pro
 - The script does not support splitting a PDF file based on a custom range of pages. This feature can be added to offer more flexibility to users.
 
 - Error handling can be improved to provide more detailed information and solutions to the user when an issue occurs.
-
-- The script could be extended to support additional features such as merging PDF files, reordering pages, or extracting specific pages.
