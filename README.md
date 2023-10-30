@@ -50,6 +50,6 @@ The script uses a `while` loop to continuously prompt the user for input and pro
 
 ## Limitations and Future Improvements
 
-- The script does not support splitting a PDF file based on a custom range of pages. This feature can be added to offer more flexibility to users.
+- The script does not support splitting a PDF file based on a custom range of pages.
 
-- Error handling can be improved to provide more detailed information and solutions to the user when an issue occurs.
+- Error handling can be improved.
