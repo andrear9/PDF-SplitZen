@@ -1,4 +1,4 @@
-# PDF Splitter
+# PDF SplitZen
 
 This is a simple Python script just for excercise that splits a PDF file into smaller PDF files, each containing a specified number of pages. The script uses the PyPDF2 and tkinter libraries.
 
